@@ -1,0 +1,5 @@
+C:\Users\AHityaev.IBS\Documents\Projects\f24\VideoConverter13\bin\Debug\VideoConverter.dll
+C:\Users\AHityaev.IBS\Documents\Projects\f24\VideoConverter13\bin\Debug\VideoConverter.pdb
+C:\Users\AHityaev.IBS\Documents\Projects\f24\VideoConverter13\obj\Debug\VideoConverter.csprojResolveAssemblyReference.cache
+C:\Users\AHityaev.IBS\Documents\Projects\f24\VideoConverter13\obj\Debug\VideoConverter.dll
+C:\Users\AHityaev.IBS\Documents\Projects\f24\VideoConverter13\obj\Debug\VideoConverter.pdb
